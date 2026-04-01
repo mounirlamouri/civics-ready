@@ -94,4 +94,4 @@ After elections or appointments, update the JSON files and hardcoded values. The
 
 ## License
 
-<!-- TODO: Choose a license -->
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
