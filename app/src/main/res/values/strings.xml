@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Civics Ready</string>
+
+    <!-- Navigation -->
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="retry">Retry</string>
+
+    <!-- Home Screen -->
+    <string name="home_subtitle">Prepare for your U.S. naturalization interview</string>
+    <string name="home_stat_practiced">Practiced</string>
+    <string name="home_stat_accuracy">Accuracy</string>
+    <string name="home_stat_mode">Mode</string>
+    <string name="home_mode_6520">65/20</string>
+    <string name="home_mode_standard">Standard</string>
+    <string name="home_location_prompt">Tap Settings to enter your zip code and look up your Governor, Senators, and Representative.</string>
+    <string name="home_gov_label">Gov: %s</string>
+    <string name="home_sen_label">Sen: %1$s  •  %2$s</string>
+    <string name="home_rep_label">Rep: %s</string>
+    <string name="home_ordered_title">Original Order</string>
+    <string name="home_ordered_on">Questions follow the official PDF order</string>
+    <string name="home_ordered_off">Questions are shuffled randomly</string>
+    <string name="home_practice_button">Practice Mode  —  All 128 Questions</string>
+    <string name="home_test_button">Test Mode  —  %d Questions</string>
+    <string name="home_6520_active">65/20 mode active — using the 20 special-consideration questions</string>
+    <string name="home_location_click_label">Open settings to change location</string>
+    <string name="home_zip_click_label">Open settings to enter zip code</string>
+
+    <!-- Test Screen -->
+    <string name="test_mode">Test Mode</string>
+    <string name="test_mode_6520">Test — 65/20 Mode</string>
+    <string name="test_error">Failed to load questions. Please try again.</string>
+
+    <!-- Test Result Screen -->
+    <string name="result_title">Your Results</string>
+    <string name="result_pass">PASS</string>
+    <string name="result_fail">FAIL</string>
+    <string name="result_score">%1$d / %2$d correct</string>
+    <string name="result_threshold">Need %d to pass</string>
+    <string name="result_question_by_question">Question by question:</string>
+    <string name="result_try_again">Try Again</string>
+    <string name="result_back_home">Back to Home</string>
+    <string name="result_correct">Correct</string>
+    <string name="result_incorrect">Incorrect</string>
+    <string name="result_answer">Answer: %s</string>
+    <string name="result_answer_more">%1$s and %2$d more</string>
+
+    <!-- Practice Screen -->
+    <string name="practice_mode">Practice Mode</string>
+    <string name="practice_finish">Finish</string>
+    <string name="practice_complete">Session Complete!</string>
+    <string name="practice_score">%1$d / %2$d correct</string>
+    <string name="practice_accuracy">%d%% accuracy</string>
+    <string name="practice_again">Practice Again</string>
+    <string name="practice_error">Failed to load questions. Please try again.</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_location_title">Your Location</string>
+    <string name="settings_zip_label">Zip Code</string>
+    <string name="settings_zip_placeholder">e.g. 10001</string>
+    <string name="settings_lookup">Look Up</string>
+    <string name="settings_zip_error">Please enter a 5-digit zip code.</string>
+    <string name="settings_zip_not_found">Zip code not found. Please verify your zip and try again.</string>
+    <string name="settings_zip_partial">State officials shown. To find your U.S. Representative, visit house.gov/zip4</string>
+    <string name="settings_official_state">State</string>
+    <string name="settings_official_capital">Capital</string>
+    <string name="settings_official_governor">Governor</string>
+    <string name="settings_official_senator1">Senator 1</string>
+    <string name="settings_official_senator2">Senator 2</string>
+    <string name="settings_official_representative">Representative</string>
+    <string name="settings_federal_title">Federal Officials (as of %s)</string>
+    <string name="settings_federal_president">President</string>
+    <string name="settings_federal_vp">Vice President</string>
+    <string name="settings_federal_speaker">Speaker, House</string>
+    <string name="settings_federal_chief_justice">Chief Justice</string>
+    <string name="settings_uscis_link">For the most current names, visit uscis.gov/citizenship/testupdates</string>
+    <string name="settings_6520_title">65/20 Special Consideration</string>
+    <string name="settings_6520_description">If you are 65 or older and have been a lawful permanent resident for 20+ years, enable this to study only the 20 special-consideration questions.</string>
+    <string name="settings_6520_toggle">Enable 65/20 mode</string>
+
+    <!-- FlashCard -->
+    <string name="flashcard_question_counter">Question %1$d of %2$d</string>
+    <string name="flashcard_tap_reveal">Tap to reveal answer</string>
+    <string name="flashcard_answer_label">Answer:</string>
+    <string name="flashcard_answer_any">Any of the following:</string>
+    <string name="flashcard_answer_name_n">Name %d of the following:</string>
+    <string name="flashcard_did_you_get_it">Did you get it right?</string>
+    <string name="flashcard_got_it">✓  Got it</string>
+    <string name="flashcard_missed">✗  Missed</string>
+    <string name="flashcard_swipe_hint">Or swipe right / left</string>
+
+    <!-- Data staleness -->
+    <string name="staleness_warning">Official data may be outdated. Check uscis.gov/citizenship/testupdates for current names.</string>
+</resources>
